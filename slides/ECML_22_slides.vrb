@@ -1,0 +1,15 @@
+\frametitle{Takeaways}
+
+\begin{itemize}
+
+\item We relax the i.i.d. assumption from CATE estimation methods.
+
+\item We  propose a method to select CATE models that are robust under a family of distributional changes in the data.
+
+\item The proposed method shows positive results on a limited number of simulation scenarios.
+
+
+\end{itemize}
+
+
+
